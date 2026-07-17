@@ -1,0 +1,11 @@
+.dart_tool/
+.pub/
+build/
+*.iml
+*.lock
+*.apk
+*.aab
+*.ipa
+.DS_Store
+.idea/
+.vscode/
