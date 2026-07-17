@@ -1,0 +1,40 @@
+name: ping_app
+description: Find people near you - Full app
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_blue_plus: ^1.32.10
+  permission_handler: ^11.0.1
+  shared_preferences: ^2.2.2
+  connectivity_plus: ^5.0.2
+  path_provider: ^2.1.2
+  timeago: ^3.6.0
+  image_picker: ^1.0.7
+  camera: ^0.10.5
+  flutter_local_notifications: ^17.0.0
+  record: ^5.0.4
+  audio_waveforms: ^1.0.0
+  just_audio: ^0.9.36
+  agora_rtc_engine: ^6.3.0
+  wakelock_plus: ^1.1.4
+  firebase_core: ^2.24.2
+  firebase_database: ^10.3.8
+  firebase_auth: ^4.16.0
+  geolocator: ^10.1.0
+  wifi_direct: ^1.0.0
+  share_plus: ^7.2.1
+  package_info_plus: ^5.0.1
+  url_launcher: ^6.2.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
