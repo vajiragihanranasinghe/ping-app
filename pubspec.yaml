@@ -26,7 +26,6 @@ dependencies:
   firebase_database: ^10.3.8
   firebase_auth: ^4.16.0
   geolocator: ^10.1.0
-  wifi_direct: ^1.0.0
   share_plus: ^7.2.1
   package_info_plus: ^5.0.1
   url_launcher: ^6.2.5
