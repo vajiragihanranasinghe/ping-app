@@ -15,7 +15,6 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:geolocator/geolocator.dart';
-import 'package:wifi_direct/wifi_direct.dart';
 import 'package:share_plus/share_plus.dart';
 import 'dart:typed_data';
 import 'dart:convert';
